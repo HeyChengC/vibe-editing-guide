@@ -2,7 +2,7 @@
 
 用一张嘴指挥 AI 剪片。
 
-下面每一章都可以在 GitHub 里直接看。带交互演示的网页版：https://dave-cc.github.io/vibe-editing-guide/
+下面每一章都可以在 GitHub 里直接看。带交互演示的网页版：https://heychengc.github.io/vibe-editing-guide/
 
 ## 开始
 
